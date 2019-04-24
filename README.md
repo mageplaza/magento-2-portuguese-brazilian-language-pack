@@ -40,6 +40,8 @@ Install the Portuguese Brazilian language pack via composer is never easier.
 ```
 composer require mageplaza/magento-2-portuguese-brazilian-language-pack:dev-master
 php bin/magento setup:static-content:deploy pt_BR
+php bin/magento indexer:reindex
+php bin/magento cache:clean
 php bin/magento cache:flush
 
 ```
@@ -50,6 +52,8 @@ php bin/magento cache:flush
 ```
 composer update mageplaza/magento-2-portuguese-brazilian-language-pack:dev-master
 php bin/magento setup:static-content:deploy pt_BR
+php bin/magento indexer:reindex
+php bin/magento cache:clean
 php bin/magento cache:flush
 
 ```
@@ -89,8 +93,11 @@ Unzip the Portuguese Brazilian language pack to Magento 2 root folder. In this g
 Your Magento 2 root folder can be: `/home/account_name/yourstore.com/public_html/`
 
 ```
-unzip master.zip app/i18n/Mageplaza/pt_br
+unzip master.zip app/i18n/Mageplaza/
 ```
+
+Rename folder `magento-2-portuguese-brazilian-language-pack` to `pt_br`.
+
 
 You also can unzip locally and upload them to Magento 2 root folder.
 
@@ -110,14 +117,18 @@ To download and install Portuguese Brazilian pack manually, you have to access t
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `pt_BR.zip` into `app/i18n/mageplaza/pt_BR/pt_BR.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/pt_br/pt_BR.csv`
+
+See this screenshot
+
+![Portuguese Brazilian pack](https://cdn2.mageplaza.com/media/general2/tS668yC.png)
 
 #### Step 2: Flush cache
 
 Follow this guide to [Flush Cache on your Magento 2 store](https://www.mageplaza.com/kb/how-flush-enable-disable-cache.html)
 
 
-## 3. How to active Portuguese Brazilian language pack 
+## 3. How to Active the Portuguese Brazilian language pack 
 
 Now time to active the Portuguese Brazilian language pack for your Magento 2 store. From Magento 2 admin panel, navigate to `Stores > Configuration > General > Locale Options`
 ![{{Magento 2 Portuguese Brazilian language pack}}](https://cdn.mageplaza.com/media/general/aPSUA0l.png)
@@ -132,7 +143,7 @@ Contribute to this language at :
 
 ## 5. Supported Magento versions
 
-It supports all Magento 2 versions include [Magento 2 open-source](https://www.mageplaza.com/download-magento/) (Community), Magento 2 Commerce (EE).
+It supports all Magento 2 versions include [Magento 2 open-source](https://www.mageplaza.com/download-magento/) (Community), Magento 2 Commerce (EE), Magento Cloud, Magento B2B, Magento MSI.
 
 
 - Magento v2.0.x
