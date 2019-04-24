@@ -117,11 +117,13 @@ To download and install Portuguese Brazilian pack manually, you have to access t
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/pt_br/pt_BR.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/pt_br/`
 
-See this screenshot
+See this screenshot:
 
 ![Portuguese Brazilian pack](https://cdn3.mageplaza.com/media/general/language-pack.png)
+
+This language pack code is: **pt_br**
 
 #### Step 2: Flush cache
 
