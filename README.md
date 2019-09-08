@@ -4,7 +4,7 @@
 
 Read more [Magento 2 Portuguese Brazilian Language Pack](https://www.mageplaza.com/magento-2-portuguese-brazilian-language-pack.html)
 
-![Mageplaza Portuguese Brazilian language pack](https://i.imgur.com/qjWPj1W.png)
+![Mageplaza Portuguese Brazilian language pack](https://cdn3.mageplaza.com/media/general/qjWPj1W.png)
 
 ## Overview
 
