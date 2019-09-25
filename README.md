@@ -20,7 +20,7 @@ Read more [Magento 2 Portuguese Brazilian Language Pack](https://www.mageplaza.c
 
 This is status of Portuguese Brazilian Language Pack, you can see how many percentage of this project has been done.
 
-![language pack](http://progressed.io/bar/90?title=translated)
+![language pack](https://progress-bar.dev/90/?title=translated)
 
 It is not fully translated? Feel free to contribute:
 - [On Crowdin](https://crowdin.com/project/magento-2): It takes time to approve your contribution by Magento team.
