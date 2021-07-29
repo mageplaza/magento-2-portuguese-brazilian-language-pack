@@ -9602,7 +9602,7 @@ or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" 
 "Cart isn't assigned to correct store","Cart isn't assigned to correct store",module,Magento_Quote
 "'The coupon code couldn't be applied: ' .","'The coupon code couldn't be applied: ' .",module,Magento_Quote
 "The coupon code couldn't be applied. Verify the coupon code and try again.","The coupon code couldn't be applied. Verify the coupon code and try again.",module,Magento_Quote
-"The coupon code isn't valid. Verify the code and try again.","The coupon code isn't valid. Verify the code and try again.",module,Magento_Quote
+"The coupon code isn't valid. Verify the code and try again.","O código do cupom não é válido. Verifique seu código e tente novamente.",module,Magento_Quote
 "The coupon code couldn't be deleted. Verify the coupon code and try again.","The coupon code couldn't be deleted. Verify the coupon code and try again.",module,Magento_Quote
 "You don't have the correct permissions to assign the customer to the cart.","You don't have the correct permissions to assign the customer to the cart.",module,Magento_Quote
 "The shipping address is missing. Set the address and try again.","The shipping address is missing. Set the address and try again.",module,Magento_Quote
@@ -11139,7 +11139,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "You have not canceled the item.","Você não cancelou o item.",module,Magento_Sales
 "You canceled the order.","Você cancelou o pedido.",module,Magento_Sales
 """%1"" coupon code was not applied. Do not apply discount is selected for item(s)","código de cupom ""%1"" não foi aplicado. Não aplicar desconto foi selecionado para o(s) item(ns)",module,Magento_Sales
-"The ""%1"" coupon code isn't valid. Verify the code and try again.","The ""%1"" coupon code isn't valid. Verify the code and try again.",module,Magento_Sales
+"The ""%1"" coupon code isn't valid. Verify the code and try again.","O código ""%1"" do cupom não é válido. Verifique o código e tente novamente.",module,Magento_Sales
 "The coupon code has been accepted.","O código do cupom foi aceito.",module,Magento_Sales
 "The coupon code has been removed.","The coupon code has been removed.",module,Magento_Sales
 "The quote item ID needs to be received. Set the ID and try again.","The quote item ID needs to be received. Set the ID and try again.",module,Magento_Sales
@@ -11980,7 +11980,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Rule processing: %1","Rule processing: %1",module,Magento_SalesRule
 "Item totals are not set for the rule.","Os totais dos itens não estão definidos para a regra.",module,Magento_SalesRule
 "%1 Cart Price Rules based on ""%2"" attribute have been disabled.","%1 Regras de Preço do Carrinho baseadas em ""%2"" atributos foram desativadas.",module,Magento_SalesRule
-"The coupon code isn't valid. Verify the code and try again.","The coupon code isn't valid. Verify the code and try again.",module,Magento_SalesRule
+"The coupon code isn't valid. Verify the code and try again.","O código do cupom não é válido. Verifique seu código e tente novamente.",module,Magento_SalesRule
 "%1 coupon(s) have been generated.","Foram gerados %1 cupons.",module,Magento_SalesRule
 "Apply Discount Code","Aplicar Cupom de Desconto",module,Magento_SalesRule
 "Enter discount code","Inserir cupom de desconto",module,Magento_SalesRule
